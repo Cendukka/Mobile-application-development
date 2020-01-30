@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Samuli_Lehtonen_COMP 304 _ Sec003 _ Lab2 _Exercise1</string>
+    <string-array name="years_Array">
+        <item>1 year</item>
+        <item>2 years</item>
+        <item>3 years</item>
+        <item>4 years</item>
+        <item>5 years</item>
+
+    </string-array>
+
+</resources>
