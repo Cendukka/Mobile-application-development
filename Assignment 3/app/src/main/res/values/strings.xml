@@ -1,3 +1,25 @@
 <resources>
-    <string name="app_name">Samuli_Lehtonen_COMP304_Sec003_Lab3_ex1</string>
+    <string name="app_name">Samuli_Lehtonen_COMP304_Sec003_Lab03</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="lineThickness">Line thickness</string>
+    <string name="lineColor">Line color</string>
+    <string name="arrowKeys">Arrow keys</string>
+    <string name="redColor">Red</string>
+    <string name="yellowColor">Yellow</string>
+    <string name="cyanColor">Cyan</string>
+    <string name="clearCanvas">Clear canvas</string>
+
+    <string-array name="exercises">
+        <item>Exercise 1</item>
+        <item>Exercise 2</item>
+        <item>Exercise 3</item>
+    </string-array>
+
+    <string-array name="penThickneses">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+    </string-array>
 </resources>

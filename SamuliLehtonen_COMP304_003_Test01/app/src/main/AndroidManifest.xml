@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.samuli_lehtonen_comp304_sec003_lab03">
+    package="com.example.samulilehtonen_comp304_003_test01">
 
     <application
         android:allowBackup="true"
@@ -9,15 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity
-            android:name=".Exercise3Activity"
-            android:parentActivityName=".MainActivity"></activity>
-        <activity
-            android:name=".Exercise2Activity"
-            android:parentActivityName=".MainActivity"/>
-        <activity
-            android:name=".Exercise1Activity"
-            android:parentActivityName=".MainActivity"/>
+        <activity android:name=".BrainActivity"></activity>
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SamuliLehtonen_COMP304_003_Test01</string>
+    <string name="brainChallengeTitle">Brain Challenge</string>
+    <string name="brainChallengeInstructions">Challenge Your Brain with scientifically designed exercises</string>
+    <string name="selectExercises">SELECT EXERCISES</string>
+    <string name="nextButton">NEXT</string>
+    <string name="loseThings">Lose things</string>
+    <string name="rememberNames">Remember names</string>
+    <string name="learnThings">Learn things quickly</string>
+    <string name="keepTrack">Keep track of multiple things</string>
+    <string-array
+        name="yValuesForLines">
+        <item>50px</item>
+        <item>75px</item>
+    </string-array>
+</resources>
